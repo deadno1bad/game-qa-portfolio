@@ -2,7 +2,7 @@
 
 ## Title
 
-**[UI][Localization][Inventory] Large Plant 1 icon flickers in the Crafting Bench when Russian localization is selected**
+**[UI][Localization][Inventory] Large Plant 1 icon flickers in the Crafting Bench when Russian localization is selected in menu before session**
 
 ---
 
