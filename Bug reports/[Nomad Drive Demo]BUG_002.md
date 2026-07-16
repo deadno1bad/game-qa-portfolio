@@ -12,7 +12,7 @@
 
 **Game Version / Build:**
 > v1.3
-
+##Spec
 **Platform:**
 Steam
 **Operating System:**
