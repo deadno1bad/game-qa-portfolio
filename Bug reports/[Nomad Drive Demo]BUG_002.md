@@ -38,20 +38,28 @@ Particle effects should not be highlighted.
 ---
 
 ## Actual Result
-
 The interaction outline is applied to both the engine mesh and its particle effects.
+
 ---
+
 ## Reproducibility
 Always (100%)
+
 ---
+
 ## Severity
 Low
+
 ---
+
 ## Priority
 P4 – Low
+
 ---
+
 ## Category
 Graphics / Visual
+
 ---
 ## Attachments
 <img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/4cd3186d-4081-4e42-ab1a-38e48295a438" />
