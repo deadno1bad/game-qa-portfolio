@@ -14,11 +14,11 @@
 > v1.3
 
 **Platform:**
-- [ ] Steam
+Steam
 **Operating System:**
-- [ ] Windows 11
+Windows 11
 **Game Mode:**
-- [ ] Singleplayer
+Singleplayer
 **Language:**
 >RUS
 ## Preconditions
@@ -48,15 +48,16 @@ Particle effects should not be highlighted.
 The interaction outline is applied to both the engine mesh and its particle effects.
 ---
 ## Reproducibility
-- [ ] Always (100%)
+Always (100%)
 ## Severity
-- [ ] Low – 
+Low
 ---
 ## Priority
-- [ ] P4 – Low
+P4 – Low
 ---
 ## Category
-- [ ] Graphics / Visual
+Graphics / Visual
 ---
 ## Attachments
-- Screenshot(s)
+<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/4cd3186d-4081-4e42-ab1a-38e48295a438" />
+
