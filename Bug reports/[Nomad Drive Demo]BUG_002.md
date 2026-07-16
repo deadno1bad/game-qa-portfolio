@@ -12,6 +12,7 @@
 
 **Game Version / Build:**
 > v1.3
+> ---
 **Language:**
 >RUS
 ## Preconditions
@@ -42,6 +43,7 @@ The interaction outline is applied to both the engine mesh and its particle effe
 ---
 ## Reproducibility
 Always (100%)
+---
 ## Severity
 Low
 ---
