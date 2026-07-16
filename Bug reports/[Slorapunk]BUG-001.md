@@ -85,6 +85,5 @@ Should be fixed to improve UI quality before future updates.
 ---
 
 ## Attachments
-
-- Screenshot_01.png
-- Screenshot_02.png
+<img width="1920" height="1080" alt="480_18" src="https://github.com/user-attachments/assets/339bebcf-1af6-4d46-beba-e1ebdb22d4e2" />
+<img width="1920" height="1080" alt="480_19" src="https://github.com/user-attachments/assets/7c306c63-5784-4754-a95b-09681040fc6a" />
