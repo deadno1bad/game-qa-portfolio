@@ -8,7 +8,7 @@
 
 ## Game
 
-PEAK
+Solarpunk
 
 ---
 
