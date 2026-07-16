@@ -34,7 +34,7 @@ PC
 
 ## Preconditions
 
-- Game language is set to **Russian**.
+- Game language is set to **Russian** IN MENU before session.
 - Large Plant 1 has been unlocked.
 
 ---
