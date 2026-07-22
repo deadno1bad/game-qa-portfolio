@@ -15,19 +15,18 @@ Win 11
 > v1.3
 
 **Platform:**
--  Steam
+>  Steam
   
 **Operating System:**
--  Windows 11
+>  Windows 11
   
 **Game Mode:**
--  Singleplayer
+>  Singleplayer
   
 **Language:**
 >RUS
 ## Preconditions
-- Vehicle under the sun light
-- Vehicle in a working status(can ride)
+- Vehicle under the sun light.
 
 ## Steps to Reproduce
 
@@ -48,15 +47,15 @@ Solid black shadow under the car.
 Partial shadows of car details.
 ---
 ## Reproducibility
--  Always (100%)
+>  Always (100%)
 ## Severity
--  Low – 
+>  Low 
 ---
 ## Priority
--  P4 – Low
+>  Low
 ---
 ## Category
-- [ Graphics / Visual
+> [ Graphics / Visual ]
 ---
 ## Attachments
 <img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/b4925db7-b6e1-4756-96f1-95b4a2f9e032" />
