@@ -16,10 +16,12 @@ Win 11
 
 **Platform:**
 -  Steam
+  
 **Operating System:**
 -  Windows 11
 **Game Mode:**
 -  Singleplayer
+  
 **Language:**
 >RUS
 ## Preconditions
