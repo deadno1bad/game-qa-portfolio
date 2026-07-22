@@ -15,11 +15,11 @@ Win 11
 > v1.3
 
 **Platform:**
-- [ ] Steam
+-  Steam
 **Operating System:**
-- [ ] Windows 11
+-  Windows 11
 **Game Mode:**
-- [ ] Singleplayer
+-  Singleplayer
 **Language:**
 >RUS
 ## Preconditions
