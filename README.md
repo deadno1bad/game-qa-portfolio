@@ -22,3 +22,6 @@
 | Game | Bug | Status |
 |------|------|--------|
 | Solarpunk | UI Localization | Submitted |
+| Drive Nomad | UI | Submitted |
+| Drive Nomad | Shaders | Submitted |
+| Drive Nomad | Level Design | Submitted |
