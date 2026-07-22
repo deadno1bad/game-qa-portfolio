@@ -45,7 +45,9 @@ Solid black shadow under the car.
 ## Actual Result
 
 Partial shadows of car details.
+
 ---
+
 ## Reproducibility
 >  Always (100%)
 ## Severity
