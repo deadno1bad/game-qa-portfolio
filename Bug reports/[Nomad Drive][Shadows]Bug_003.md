@@ -19,6 +19,7 @@ Win 11
   
 **Operating System:**
 -  Windows 11
+  
 **Game Mode:**
 -  Singleplayer
   
@@ -47,15 +48,15 @@ Solid black shadow under the car.
 Partial shadows of car details.
 ---
 ## Reproducibility
-- [ ] Always (100%)
+-  Always (100%)
 ## Severity
-- [ ] Low – 
+-  Low – 
 ---
 ## Priority
-- [ ] P4 – Low
+-  P4 – Low
 ---
 ## Category
-- [ ] Graphics / Visual
+- [ Graphics / Visual
 ---
 ## Attachments
 <img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/b4925db7-b6e1-4756-96f1-95b4a2f9e032" />
